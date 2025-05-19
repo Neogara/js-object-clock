@@ -390,8 +390,8 @@
 				"options" : 
 				[
 					{
-						"label" : "Comst",
-						"value" : "comst"
+						"label" : "Const",
+						"value" : "const"
 					},
 					{
 						"label" : "Let",
